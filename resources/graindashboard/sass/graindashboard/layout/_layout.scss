@@ -68,9 +68,13 @@ body.has-sidebar {
 
   &-heading {
     font-size: $sidebar-heading-font-size;
+    font-family: 'Fira Code', monospace;
     color: $sidebar-heading-color;
     letter-spacing: $sidebar-heading-letter-spacing;
     padding: $sidebar-heading-padding;
     margin-bottom: 0;
   }
 }
+
+
+
