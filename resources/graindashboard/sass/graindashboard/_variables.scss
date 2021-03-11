@@ -46,18 +46,18 @@ $social-network-colors: map-merge((
 ), $social-network-colors);
 
 // Theme Colors
-$primary:                                                   #265DF1 !default;
+$primary:                                                   #40739e !default;
 $primary-darker:                                            darken($primary, 27%) !default;
 $primary-lighter:                                           lighten($primary, 27%) !default;
-$secondary:                                                 #07d7f7 !default;
-$success:                                                   #0cdcb9 !default;
-$info:                                                      #474dee !default;
-$warning:                                                   #fcd53b !default;
-$danger:                                                    #ef5b5b !default;
+$secondary:                                                 #0097e6 !default;
+$success:                                                   #44bd32 !default;
+$info:                                                      #8c7ae6 !default;
+$warning:                                                   #e1b12c !default;
+$danger:                                                    #e84118 !default;
 $light:                                                     $gray-300 !default;
 $lighter:                                                   $gray-100 !default;
-$dark:                                                      #1e2022 !default;
-$darker:                                                    #151829 !default;
+$dark:                                                      #2f3640 !default;
+$darker:                                                    #353b48 !default;
 
 $theme-colors: () !default;
 $theme-colors: map-merge((
