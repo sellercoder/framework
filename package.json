@@ -29,5 +29,8 @@
     "sass-loader": "7.*",
     "vue-template-compiler": "^2.6.10",
     "cross-env": "^5.1"
+  },
+  "dependencies": {
+    "node-sass": "^5.0.0"
   }
 }
